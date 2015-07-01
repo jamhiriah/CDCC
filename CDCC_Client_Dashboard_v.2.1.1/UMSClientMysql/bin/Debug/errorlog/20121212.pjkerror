@@ -1,0 +1,20 @@
+12-12-2012 17:03:26|frmMain|System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 516
+12-12-2012 18:20:06|modMain|MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'abc123' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at UMSClientMysql.modMain.dbRead(String strSQL) in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\modMain.vb:line 116
+12-12-2012 18:35:08|frmMain|System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 519

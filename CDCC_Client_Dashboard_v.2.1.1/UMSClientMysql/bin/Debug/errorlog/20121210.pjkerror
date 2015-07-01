@@ -1,0 +1,6 @@
+10-12-2012 14:34:47|frmMain|System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\frmMain.vb:line 516

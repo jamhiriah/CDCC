@@ -1,0 +1,46 @@
+04-12-2012 14:49:08|modMain|MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Exception: Exception of type 'System.Exception' was thrown.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at UMSClientMysql.modMain.dbRead(String strSQL) in C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\modMain.vb:line 96
+04-12-2012 14:49:24|modMain|MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Exception: Exception of type 'System.Exception' was thrown.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at UMSClientMysql.modMain.dbRead(String strSQL) in C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\modMain.vb:line 96
+04-12-2012 14:49:24|frmMain|System.NullReferenceException: Object reference not set to an instance of an object.
+   at UMSClientMysql.frmMain.IsDBAvailable() in C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\frmMain.vb:line 316
+04-12-2012 14:49:40|modMain|MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Exception: Exception of type 'System.Exception' was thrown.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at UMSClientMysql.modMain.dbRead(String strSQL) in C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\modMain.vb:line 96
+04-12-2012 14:49:40|frmMain|System.NullReferenceException: Object reference not set to an instance of an object.
+   at UMSClientMysql.frmMain.IsDBAvailable() in C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\frmMain.vb:line 316
+04-12-2012 14:49:57|modMain|MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Exception: Exception of type 'System.Exception' was thrown.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at UMSClientMysql.modMain.dbRead(String strSQL) in C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\modMain.vb:line 96
+04-12-2012 14:49:57|frmMain|System.NullReferenceException: Object reference not set to an instance of an object.
+   at UMSClientMysql.frmMain.IsDBAvailable() in C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\frmMain.vb:line 316
+04-12-2012 14:50:13|modMain|MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Exception: Exception of type 'System.Exception' was thrown.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at UMSClientMysql.modMain.dbRead(String strSQL) in C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\modMain.vb:line 96
+04-12-2012 14:50:13|frmMain|System.NullReferenceException: Object reference not set to an instance of an object.
+   at UMSClientMysql.frmMain.IsDBAvailable() in C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\frmMain.vb:line 316
+04-12-2012 14:50:30|modMain|MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Exception: Exception of type 'System.Exception' was thrown.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at UMSClientMysql.modMain.dbRead(String strSQL) in C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\modMain.vb:line 96
+04-12-2012 14:50:30|frmMain|System.NullReferenceException: Object reference not set to an instance of an object.
+   at UMSClientMysql.frmMain.IsDBAvailable() in C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\frmMain.vb:line 316

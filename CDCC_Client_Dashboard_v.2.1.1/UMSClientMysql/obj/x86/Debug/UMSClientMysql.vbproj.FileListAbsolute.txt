@@ -1,0 +1,354 @@
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Form2.resources
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChat.resources
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChatUI.resources
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmIpconfig.resources
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMain.resources
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMinMonitoring.resources
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMonitoring.resources
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmRegister.resources
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmServerconn.resources
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Resources.resources
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\bin\Debug\UMSClientMysql.exe
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\bin\Debug\UMSClientMysql.pdb
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\bin\Debug\UMSClientMysql.xml
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+C:\Anb_Works\tmpFolder\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\bin\Debug\UMSClientMysql.exe
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\bin\Debug\UMSClientMysql.pdb
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\bin\Debug\UMSClientMysql.xml
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Form2.resources
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChat.resources
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChatUI.resources
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmIpconfig.resources
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMain.resources
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMinMonitoring.resources
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMonitoring.resources
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmRegister.resources
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmServerconn.resources
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Resources.resources
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ftec1\My Documents\Visual Studio 2010\Projects\UMSClientMysql\UMSClientMysql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.exe
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.pdb
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.xml
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Form2.resources
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChat.resources
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChatUI.resources
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmIpconfig.resources
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMain.resources
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMinMonitoring.resources
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMonitoring.resources
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmRegister.resources
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmServerconn.resources
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Resources.resources
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MSDGROUP\Desktop\tia edited\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.exe
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.pdb
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.xml
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Form2.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChat.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChatUI.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmIpconfig.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMain.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMinMonitoring.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMonitoring.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmRegister.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmServerconn.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Resources.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+E:\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+E:\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+E:\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+E:\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMsgBox.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.exe.manifest
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.application
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe.manifest
+C:\Users\Jam2011\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.application
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.exe.manifest
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.application
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.exe
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.pdb
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.xml
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Form2.resources
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChat.resources
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChatUI.resources
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmIpconfig.resources
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMain.resources
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMinMonitoring.resources
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMonitoring.resources
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMsgBox.resources
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmRegister.resources
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmServerconn.resources
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Resources.resources
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe.manifest
+C:\Users\Jam\Dropbox\IGW_Docs\UMS_NV\SourceCode\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.application
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.exe.manifest
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.application
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.exe
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.pdb
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\bin\Debug\UMSClientMysql.xml
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Form2.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChat.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChatUI.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmIpconfig.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMain.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMinMonitoring.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMonitoring.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMsgBox.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmRegister.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmServerconn.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Resources.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe.manifest
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\Jam\UMSClientMysqlxx\UMSClientMysql\obj\x86\Debug\UMSClientMysql.application
+C:\Anb_Works\DropBox\IGW\UMS_Admin_new\UMS_Client\UMSClientMysql_20120720\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+C:\Anb_Works\DropBox\IGW\UMS_Admin_new\UMS_Client\UMSClientMysql_20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+C:\Anb_Works\DropBox\IGW\UMS_Admin_new\UMS_Client\UMSClientMysql_20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+C:\Anb_Works\DropBox\IGW\UMS_Admin_new\UMS_Client\UMSClientMysql_20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\bin\Debug\UMSClientMysql.exe.manifest
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\bin\Debug\UMSClientMysql.application
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\bin\Debug\UMSClientMysql.exe
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\bin\Debug\UMSClientMysql.pdb
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\bin\Debug\UMSClientMysql.xml
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Form2.resources
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChat.resources
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChatUI.resources
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmIpconfig.resources
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMain.resources
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMinMonitoring.resources
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMonitoring.resources
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMsgBox.resources
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmRegister.resources
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmServerconn.resources
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Resources.resources
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe.manifest
+C:\Users\Jam2011\Dropbox\IGW\UMS_Admin_new\UMS_Client\20120720\UMSClientMysql\obj\x86\Debug\UMSClientMysql.application
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.exe.manifest
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.application
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.exe
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.pdb
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.xml
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Form2.resources
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChat.resources
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChatUI.resources
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmIpconfig.resources
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMain.resources
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMinMonitoring.resources
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMonitoring.resources
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMsgBox.resources
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmRegister.resources
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmServerconn.resources
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Resources.resources
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe.manifest
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.application
+C:\Users\Dewi\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frm_user_record.resources
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.exe.manifest
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.application
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.exe
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.pdb
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.xml
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChatUI.resources
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMain.resources
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMonitoring.resources
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMsgBox.resources
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmServerconn.resources
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frm_user_record.resources
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Resources.resources
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe.manifest
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.application
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.exe.manifest
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.application
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.exe
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.pdb
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.xml
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChatUI.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMain.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMonitoring.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMsgBox.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmServerconn.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frm_user_record.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Resources.resources
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe.manifest
+C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.application
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.exe.manifest
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.application
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.exe
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.pdb
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\UMSClientMysql.xml
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChatUI.resources
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMain.resources
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMonitoring.resources
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMsgBox.resources
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmServerconn.resources
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frm_user_record.resources
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Resources.resources
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe.manifest
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\obj\x86\Debug\UMSClientMysql.application
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\bin\Debug\UMSClientMysql.exe.manifest
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\bin\Debug\UMSClientMysql.application
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\bin\Debug\UMSClientMysql.exe
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\bin\Debug\UMSClientMysql.pdb
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\bin\Debug\UMSClientMysql.xml
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChatUI.resources
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMain.resources
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMonitoring.resources
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMsgBox.resources
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmServerconn.resources
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frm_user_record.resources
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Resources.resources
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe.manifest
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\obj\x86\Debug\UMSClientMysql.application
+C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql_1_v_0_3\UMSClientMysql\obj\x86\Debug\UMSClientMysql.vbproj.GenerateResource.Cache
+C:\Anb_Works\DropBox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_6\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+C:\Anb_Works\DropBox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_6\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+C:\Anb_Works\DropBox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_6\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+C:\Anb_Works\DropBox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_6\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\bin\Debug\UMSClientMysql.exe.manifest
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\bin\Debug\UMSClientMysql.application
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\bin\Debug\UMSClientMysql.exe
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\bin\Debug\UMSClientMysql.pdb
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\bin\Debug\UMSClientMysql.xml
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\obj\x86\Debug\UMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChatUI.resources
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMain.resources
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMonitoring.resources
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMsgBox.resources
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmServerconn.resources
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frm_user_record.resources
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Resources.resources
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\obj\x86\Debug\UMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe.manifest
+C:\Users\Fong\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql_1_v_0_7\UMSClientMysql\obj\x86\Debug\UMSClientMysql.application
+C:\Anb_Works\DropBox\myCodes\CMSClientMySql_win8_POC_v.0.0\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+C:\Anb_Works\DropBox\myCodes\CMSClientMySql_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+C:\Anb_Works\DropBox\myCodes\CMSClientMySql_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+C:\Anb_Works\DropBox\myCodes\CMSClientMySql_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb

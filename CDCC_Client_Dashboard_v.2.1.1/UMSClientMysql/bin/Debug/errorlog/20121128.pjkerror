@@ -1,0 +1,42 @@
+28/11/2012 12:59:09|modMain|MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Exception: Exception of type 'System.Exception' was thrown.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at UMSClientMysql.modMain.dbRead(String strSQL) in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\modMain.vb:line 96
+28/11/2012 12:59:25|modMain|MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Exception: Exception of type 'System.Exception' was thrown.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at UMSClientMysql.modMain.dbRead(String strSQL) in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\modMain.vb:line 96
+28/11/2012 12:59:25|frmMain|System.NullReferenceException: Object reference not set to an instance of an object.
+   at UMSClientMysql.frmMain.IsDBAvailable() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 316
+28/11/2012 13:23:41|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Administrator\Dropbox\IGW\UMS_Admin_new\UMS_Client\UMSClientMySql\UMSClientMysql\frmMain.vb:line 516
+28/11/2012 13:52:02|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage()
+28/11/2012 14:22:20|modMain|MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Exception: Exception of type 'System.Exception' was thrown.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at UMSClientMysql.modMain.dbRead(String strSQL)
+28/11/2012 14:22:20|frmMain|System.NullReferenceException: Object reference not set to an instance of an object.
+   at UMSClientMysql.frmMain.IsDBAvailable()
+28/11/2012 14:22:36|modMain|MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Exception: Exception of type 'System.Exception' was thrown.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at UMSClientMysql.modMain.dbRead(String strSQL)
+28/11/2012 14:22:36|frmMain|System.NullReferenceException: Object reference not set to an instance of an object.
+   at UMSClientMysql.frmMain.IsDBAvailable()

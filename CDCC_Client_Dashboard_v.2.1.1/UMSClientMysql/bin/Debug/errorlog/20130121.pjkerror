@@ -1,0 +1,276 @@
+21-01-2013 16:16:24|modMain|MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as start_time, FORMAT(Now(),'yyyy-MM-dd HH:mm:ss'),0,  1, 0,'2013-01-21 16:16:14' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at UMSClientMysql.modMain.dbRead(String strSQL) in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\modMain.vb:line 117
+21-01-2013 16:16:53|modMain|MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as start_time, FORMAT(Now(),'yyyy-MM-dd HH:mm:ss'),0,  1, 0,'2013-01-21 16:16:40' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at UMSClientMysql.modMain.dbRead(String strSQL) in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\modMain.vb:line 117
+21-01-2013 13:03:14|modMain|System.NullReferenceException: Object reference not set to an instance of an object.
+   at MySql.Data.MySqlClient.NativeDriver.SkipDataRow()
+   at MySql.Data.MySqlClient.MySqlDataReader.ClearCurrentResultset()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlDataReader.Close()
+   at System.Data.Common.DbDataReader.Dispose(Boolean disposing)
+   at MySql.Data.MySqlClient.MySqlDataReader.Dispose(Boolean disposing)
+   at System.Data.Common.DbDataReader.Dispose()
+   at MySql.Data.MySqlClient.Driver.Configure(MySqlConnection connection)
+   at MySql.Data.MySqlClient.NativeDriver.Configure(MySqlConnection conn)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at UMSClientMysql.modMain.dbRead(String strSQL) in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\modMain.vb:line 96
+21-01-2013 13:03:14|modMain|System.NullReferenceException: Object reference not set to an instance of an object.
+   at UMSClientMysql.modMain.GetSystemName() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\modMain.vb:line 825
+21-01-2013 13:03:19|modMain|MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Exception: Exception of type 'System.Exception' was thrown.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at UMSClientMysql.modMain.dbRead(String strSQL) in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\modMain.vb:line 96
+21-01-2013 02:50:09|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 02:51:21|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 02:51:42|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 02:53:56|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 02:54:27|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 02:57:34|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 02:58:55|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 02:59:27|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:00:12|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:00:57|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:01:42|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:02:27|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:03:12|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:03:58|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:04:43|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:05:28|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:06:13|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:06:58|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:07:43|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:08:28|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:09:13|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:09:58|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:10:43|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:11:28|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:12:13|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:12:58|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:13:43|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:14:28|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:15:13|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:15:58|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:16:43|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:17:42|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:18:12|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:19:01|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:19:42|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:36:57|frmMain|System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:37:43|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:38:28|frmMain|System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:42:12|frmMain|System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at UMSClientMysql.frmMain.getMessage() in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\frmMain.vb:line 396
+21-01-2013 03:43:08|modMain|MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Exception: Exception of type 'System.Exception' was thrown.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at UMSClientMysql.modMain.dbRead(String strSQL) in C:\Users\Fong\Documents\Visual Studio 2010\Projects\UMSClientMySql\UMSClientMysql\modMain.vb:line 96

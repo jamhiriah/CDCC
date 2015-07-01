@@ -1,0 +1,1094 @@
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\UMSClientMysql.exe.config
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\UMSClientMysql.xml
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\UMSClientMysql.pdb
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\UMSClientMysql.exe.manifest
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\UMSClientMysql.application
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\UMSClientMysql.exe
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\UMSClientMysql.pdb
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\UMSClientMysql.xml
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmChatUI.resources
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMain.resources
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMonitoring.resources
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmMsgBox.resources
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frmServerconn.resources
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\UMSClientMysql.frm_user_record.resources
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\UMSClientMysql.Resources.resources
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\UMSClientMysql.exe.manifest
+C:\Users\AsrulNB\Documents\Visual Studio 2010\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\UMSClientMysql.application
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\MySql.Data.dll
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.application
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+D:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\CMSClient_win8_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Dropbox\IGW_Docs\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Fong\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Fong\Desktop\POJAN\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Fong\Desktop\coding\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\AccessibleMarshal.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\breakpadinjector.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\crashreporter.exe
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\D3DCompiler_43.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\freebl3.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\gkmedias.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\IA2Marshal.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\js.exe
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\libEGL.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\libGLESv2.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\mozalloc.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\mozglue.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\mozjs.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\msvcp100.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\msvcr100.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\nss3.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\nssckbi.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\nssdbm3.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\plugin-container.exe
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\plugin-hang-ui.exe
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\redit.exe
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\softokn3.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\updater.exe
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\xul.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\xulrunner-stub.exe
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\xulrunner.exe
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\crashreporter.ini
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\dependentlibs.list
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\dictionaries\en-US.aff
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\dictionaries\en-US.dic
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\freebl3.chk
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\js-gdb.py
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\LICENSE
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\nssdbm3.chk
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\omni.ja
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\platform.ini
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\precomplete
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\README.xulrunner
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\softokn3.chk
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\Geckofx-Core.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\Geckofx-Winforms.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\Geckofx-Core.pdb
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Fong\Desktop\GECKO\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\AccessibleMarshal.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\breakpadinjector.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\crashreporter.exe
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\D3DCompiler_43.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\freebl3.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\gkmedias.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\IA2Marshal.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\js.exe
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\libEGL.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\libGLESv2.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\mozalloc.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\mozglue.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\mozjs.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\msvcp100.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\msvcr100.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\nss3.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\nssckbi.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\nssdbm3.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\plugin-container.exe
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\plugin-hang-ui.exe
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\redit.exe
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\softokn3.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\updater.exe
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\xul.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\xulrunner-stub.exe
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\xulrunner.exe
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\crashreporter.ini
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\dependentlibs.list
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\dictionaries\en-US.aff
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\dictionaries\en-US.dic
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\freebl3.chk
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\js-gdb.py
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\LICENSE
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\nssdbm3.chk
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\omni.ja
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\platform.ini
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\precomplete
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\README.xulrunner
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\xulrunner\softokn3.chk
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\Geckofx-Core.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\Geckofx-Winforms.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\Geckofx-Core.pdb
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.0.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\AccessibleMarshal.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\breakpadinjector.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\crashreporter.exe
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\D3DCompiler_43.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\freebl3.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\gkmedias.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\IA2Marshal.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\js.exe
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\libEGL.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\libGLESv2.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\mozalloc.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\mozglue.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\mozjs.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\msvcp100.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\msvcr100.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\nss3.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\nssckbi.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\nssdbm3.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\plugin-container.exe
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\plugin-hang-ui.exe
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\redit.exe
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\softokn3.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\updater.exe
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\xul.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\xulrunner-stub.exe
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\xulrunner.exe
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\crashreporter.ini
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\dependentlibs.list
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\dictionaries\en-US.aff
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\dictionaries\en-US.dic
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\freebl3.chk
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\js-gdb.py
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\LICENSE
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\nssdbm3.chk
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\omni.ja
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\platform.ini
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\precomplete
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\README.xulrunner
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\softokn3.chk
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.application
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\Geckofx-Core.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\Geckofx-Winforms.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\MySql.Data.dll
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\Geckofx-Core.pdb
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\Geckofx-Winforms.pdb
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+D:\CMSClient_Dashboard_POC_v.1.1.0\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\AccessibleMarshal.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\breakpadinjector.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\crashreporter.exe
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\D3DCompiler_43.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\freebl3.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\gkmedias.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\IA2Marshal.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\js.exe
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\libEGL.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\libGLESv2.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\mozalloc.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\mozglue.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\mozjs.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\msvcp100.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\msvcr100.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\nss3.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\nssckbi.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\nssdbm3.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\plugin-container.exe
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\plugin-hang-ui.exe
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\redit.exe
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\softokn3.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\updater.exe
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\xul.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\xulrunner-stub.exe
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\xulrunner.exe
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\crashreporter.ini
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\dependentlibs.list
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\dictionaries\en-US.aff
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\dictionaries\en-US.dic
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\freebl3.chk
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\js-gdb.py
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\LICENSE
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\nssdbm3.chk
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\omni.ja
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\platform.ini
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\precomplete
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\README.xulrunner
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\softokn3.chk
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\Geckofx-Core.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\Geckofx-Winforms.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\Geckofx-Core.pdb
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\jengka 2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\AccessibleMarshal.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\breakpadinjector.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\crashreporter.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\D3DCompiler_43.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\freebl3.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\gkmedias.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\IA2Marshal.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\js.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\libEGL.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\libGLESv2.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\mozalloc.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\mozglue.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\mozjs.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\msvcp100.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\msvcr100.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\nss3.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\nssckbi.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\nssdbm3.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\plugin-container.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\plugin-hang-ui.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\redit.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\softokn3.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\updater.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\xul.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\xulrunner-stub.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\xulrunner.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\crashreporter.ini
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\dependentlibs.list
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\dictionaries\en-US.aff
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\dictionaries\en-US.dic
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\freebl3.chk
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\js-gdb.py
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\LICENSE
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\nssdbm3.chk
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\omni.ja
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\platform.ini
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\precomplete
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\README.xulrunner
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\softokn3.chk
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\Geckofx-Core.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\Geckofx-Winforms.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\Geckofx-Core.pdb
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\DASHBOARD jengka\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\AccessibleMarshal.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\breakpadinjector.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\crashreporter.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\D3DCompiler_43.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\freebl3.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\gkmedias.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\IA2Marshal.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\js.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\libEGL.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\libGLESv2.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\mozalloc.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\mozglue.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\mozjs.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\msvcp100.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\msvcr100.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\nss3.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\nssckbi.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\nssdbm3.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\plugin-container.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\plugin-hang-ui.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\redit.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\softokn3.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\updater.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\xul.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\xulrunner-stub.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\xulrunner.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\crashreporter.ini
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\dependentlibs.list
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\dictionaries\en-US.aff
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\dictionaries\en-US.dic
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\freebl3.chk
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\js-gdb.py
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\LICENSE
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\nssdbm3.chk
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\omni.ja
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\platform.ini
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\precomplete
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\README.xulrunner
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\xulrunner\softokn3.chk
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\Geckofx-Core.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\Geckofx-Winforms.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\Geckofx-Core.pdb
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\CMSClient_Dashboard_POC_v.1.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\AccessibleMarshal.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\breakpadinjector.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\crashreporter.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\D3DCompiler_43.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\freebl3.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\gkmedias.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\IA2Marshal.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\js.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\libEGL.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\libGLESv2.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\mozalloc.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\mozglue.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\mozjs.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\msvcp100.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\msvcr100.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\nss3.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\nssckbi.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\nssdbm3.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\plugin-container.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\plugin-hang-ui.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\redit.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\softokn3.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\updater.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\xul.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\xulrunner-stub.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\xulrunner.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\crashreporter.ini
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\dependentlibs.list
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\dictionaries\en-US.aff
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\dictionaries\en-US.dic
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\freebl3.chk
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\js-gdb.py
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\LICENSE
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\nssdbm3.chk
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\omni.ja
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\platform.ini
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\precomplete
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\README.xulrunner
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\xulrunner\softokn3.chk
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\Geckofx-Core.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\Geckofx-Winforms.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\Geckofx-Core.pdb
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\DASHBOARD jengka2\CMS dashboard ie\coding\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\bin\Debug\Geckofx-Core.dll
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\bin\Debug\Geckofx-Winforms.dll
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\bin\Debug\Geckofx-Core.pdb
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\New folder\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\bin\Debug\Geckofx-Core.dll
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\bin\Debug\Geckofx-Winforms.dll
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\bin\Debug\Geckofx-Core.pdb
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\pc asrul\CMSClient_Dashboard_POC_v.1.1.0\dashboard ie backup\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\bin\Debug\Geckofx-Core.pdb
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\Dashboard latest\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\Geckofx-Core.pdb
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\pojan\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\Geckofx-Core.pdb
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\bin\Debug\Geckofx-Core.pdb
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jan\Desktop\CMS_Client_Dashboard_v.1.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\Geckofx-Core.pdb
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\guestt\Videos\Ums\UMS_Client\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+D:\Dropbox\IGW\UMS_Admin_new\CDCC\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+D:\Dropbox\IGW\UMS_Admin_new\CDCC\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+D:\Dropbox\IGW\UMS_Admin_new\CDCC\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+D:\Dropbox\IGW\UMS_Admin_new\CDCC\CMS_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.3a\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.3a\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.3a\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.3a\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\bin\Debug\libraries\NDde.dll
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\bin\Debug\libraries\MySql.Data.dll
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4b\UMSClientMysql\bin\Debug\NDde.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Debug\libraries\NDde.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Debug\libraries\MySql.Data.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Debug\NDde.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.config
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.xml
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.pdb
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmChatUI.resources
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMain.resources
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frmServerconn.resources
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.frm_user_record.resources
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.Resources.resources
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Debug\libraries\NDde.dll
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Debug\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Debug\libraries\MySql.Data.dll
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.application
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.exe
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.pdb
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Debug\CMSClientMysql.xml
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Debug\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Debug\MySql.Data.dll
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Debug\NDde.dll
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Debug\CMSClientMysql.application

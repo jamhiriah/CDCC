@@ -1,0 +1,370 @@
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Release\CMSClientMysql.exe.config
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Release\CMSClientMysql.exe.manifest
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Release\CMSClientMysql.application
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Release\CMSClientMysql.exe
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Release\CMSClientMysql.pdb
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Release\CMSClientMysql.xml
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Release\BytesRoad.Net.Ftp.dll
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Release\BytesRoad.Net.Sockets.dll
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\bin\Release\MySql.Data.dll
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmChatUI.resources
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMain.resources
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMonitoring.resources
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMsgBox.resources
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmServerconn.resources
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Release\CMSClientMysql.frm_user_record.resources
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Release\CMSClientMysql.Resources.resources
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe.manifest
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Release\CMSClientMysql.application
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Release\CMSClientMysql.xml
+C:\Users\guestt\Videos\Ums\CMS_Client_Dashboard_v.1.1.2\UMSClientMysql\obj\x86\Release\CMSClientMysql.pdb
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Release\CMSClientMysql.exe.config
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Release\CMSClientMysql.exe.manifest
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Release\CMSClientMysql.application
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Release\CMSClientMysql.exe
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Release\CMSClientMysql.pdb
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Release\CMSClientMysql.xml
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Release\BytesRoad.Net.Ftp.dll
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Release\BytesRoad.Net.Sockets.dll
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\bin\Release\MySql.Data.dll
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmChatUI.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMain.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMonitoring.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMsgBox.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmServerconn.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Release\CMSClientMysql.frm_user_record.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Release\CMSClientMysql.Resources.resources
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe.manifest
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Release\CMSClientMysql.application
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Release\CMSClientMysql.xml
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Release\CMSClientMysql.pdb
+C:\Users\guestt\Pictures\CMS_Client_Dashboard_v.1.1.3\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Release\CMSClientMysql.exe.config
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Release\CMSClientMysql.xml
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Release\CMSClientMysql.pdb
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Release\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Release\CMSClientMysql.application
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Release\CMSClientMysql.exe
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Release\CMSClientMysql.pdb
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Release\CMSClientMysql.xml
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Release\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Release\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\bin\Release\MySql.Data.dll
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmChatUI.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMain.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmServerconn.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Release\CMSClientMysql.frm_user_record.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Release\CMSClientMysql.Resources.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4\UMSClientMysql\obj\x86\Release\CMSClientMysql.application
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\CMSClientMysql.exe.config
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.xml
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.pdb
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\CMSClientMysql.application
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\CMSClientMysql.exe
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\CMSClientMysql.pdb
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\CMSClientMysql.xml
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\MySql.Data.dll
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmChatUI.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMain.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmServerconn.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.frm_user_record.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.Resources.resources
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Google Drive\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.application
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\CMSClientMysql.exe.config
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.xml
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.pdb
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmChatUI.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMain.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMonitoring.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMsgBox.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmServerconn.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.frm_user_record.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.Resources.resources
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\CMSClientMysql.exe.manifest
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\CMSClientMysql.application
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\CMSClientMysql.exe
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\CMSClientMysql.pdb
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\CMSClientMysql.xml
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\BytesRoad.Net.Ftp.dll
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\BytesRoad.Net.Sockets.dll
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\bin\Release\MySql.Data.dll
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe.manifest
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.application
+C:\Users\PI1M 3\Desktop\CMS_PC ni\CDCC\CDCC\CDCC_Client_Dashboard_v.1.1.4a\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.exe.config
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.xml
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.pdb
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\libraries\NDde.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\libraries\MySql.Data.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.application
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.exe
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.pdb
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.xml
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\MySql.Data.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\NDde.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmChatUI.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMain.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmServerconn.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frm_user_record.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.Resources.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.application
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.exe.config
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.xml
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.pdb
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\bin\Release\CMSClientMysql.exe.config
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\obj\x86\Release\CMSClientMysql.xml
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\obj\x86\Release\CMSClientMysql.pdb
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\bin\Release\libraries\NDde.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\bin\Release\libraries\MySql.Data.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\bin\Release\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\bin\Release\CMSClientMysql.application
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\bin\Release\CMSClientMysql.exe
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\bin\Release\CMSClientMysql.pdb
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\bin\Release\CMSClientMysql.xml
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\bin\Release\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\bin\Release\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\bin\Release\MySql.Data.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\bin\Release\NDde.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmChatUI.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMain.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmServerconn.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\obj\x86\Release\CMSClientMysql.frm_user_record.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\obj\x86\Release\CMSClientMysql.Resources.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0test\UMSClientMysql\obj\x86\Release\CMSClientMysql.application
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.exe.config
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.xml
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.pdb
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmChatUI.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMain.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMonitoring.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMsgBox.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmServerconn.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frm_user_record.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.Resources.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\libraries\NDde.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\libraries\MySql.Data.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.exe.manifest
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.application
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.exe
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.pdb
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.xml
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\BytesRoad.Net.Ftp.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\BytesRoad.Net.Sockets.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\MySql.Data.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\NDde.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe.manifest
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.application
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.exe.config
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.xml
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.pdb
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmChatUI.resources
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMain.resources
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmServerconn.resources
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frm_user_record.resources
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.Resources.resources
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\libraries\NDde.dll
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\libraries\MySql.Data.dll
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.application
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.exe
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.pdb
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\CMSClientMysql.xml
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\MySql.Data.dll
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\bin\Release\NDde.dll
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.0.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.application
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.exe.config
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.xml
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.pdb
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\libraries\NDde.dll
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\libraries\MySql.Data.dll
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.application
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.exe
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.pdb
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.xml
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\MySql.Data.dll
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\NDde.dll
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmChatUI.resources
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMain.resources
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmServerconn.resources
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frm_user_record.resources
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.Resources.resources
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.application
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.exe.config
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.xml
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.pdb
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\libraries\NDde.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\libraries\MySql.Data.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.application
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.exe
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.pdb
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.xml
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\BytesRoad.Net.Ftp.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\BytesRoad.Net.Sockets.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\MySql.Data.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\NDde.dll
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmChatUI.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMain.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMonitoring.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMsgBox.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmServerconn.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frm_user_record.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.Resources.resources
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe.manifest
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.application
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.exe.config
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.xml
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.pdb
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmChatUI.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMain.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMonitoring.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMsgBox.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmServerconn.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frm_user_record.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.Resources.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\libraries\NDde.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\libraries\MySql.Data.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.exe.manifest
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.application
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.exe
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.pdb
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.xml
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\BytesRoad.Net.Ftp.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\BytesRoad.Net.Sockets.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\MySql.Data.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\NDde.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe.manifest
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.application
+C:\Users\INGENIWORKS\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\bin\Release\CMSClientMysql.exe.config
+C:\Users\INGENIWORKS\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe
+C:\Users\INGENIWORKS\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.xml
+C:\Users\INGENIWORKS\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.pdb
+C:\Users\INGENIWORKS\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\INGENIWORKS\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmChatUI.resources
+C:\Users\INGENIWORKS\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMain.resources
+C:\Users\INGENIWORKS\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMonitoring.resources
+C:\Users\INGENIWORKS\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMsgBox.resources
+C:\Users\INGENIWORKS\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmServerconn.resources
+C:\Users\INGENIWORKS\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.frm_user_record.resources
+C:\Users\INGENIWORKS\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.Resources.resources
+C:\Users\INGENIWORKS\Desktop\CDCC_Client_Dashboard_v.2.1.0\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\Jam2011\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Release\CMSClientMysql.exe.config
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Release\CMSClientMysql.exe.config
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Release\libraries\NDde.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Ftp.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Release\libraries\BytesRoad.Net.Sockets.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Release\libraries\MySql.Data.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Release\CMSClientMysql.exe.manifest
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Release\CMSClientMysql.application
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Release\CMSClientMysql.exe
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Release\CMSClientMysql.pdb
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Release\CMSClientMysql.xml
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Release\BytesRoad.Net.Ftp.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Release\BytesRoad.Net.Sockets.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Release\MySql.Data.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Release\NDde.dll
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbprojResolveAssemblyReference.cache
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmChatUI.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMain.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMonitoring.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmMsgBox.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Release\CMSClientMysql.frmServerconn.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Release\CMSClientMysql.frm_user_record.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Release\CMSClientMysql.Resources.resources
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Release\CMSClientMysql.vbproj.GenerateResource.Cache
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe.manifest
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Release\CMSClientMysql.application
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Release\CMSClientMysql.xml
+C:\Users\PI1M 3\Dropbox\Dropbox\CMS_JAM\CDCC\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Release\CMSClientMysql.pdb
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\bin\Release\CMSClientMysql.exe.config
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Release\CMSClientMysql.exe
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Release\CMSClientMysql.xml
+C:\Users\Jam2011\Documents\CDCC\CDCC_Client_Dashboard_v.2.1.1\UMSClientMysql\obj\x86\Release\CMSClientMysql.pdb
