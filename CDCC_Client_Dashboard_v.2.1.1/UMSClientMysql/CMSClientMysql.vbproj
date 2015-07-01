@@ -155,9 +155,7 @@
     <Compile Include="frmChatUI.Designer.vb">
       <DependentUpon>frmChatUI.vb</DependentUpon>
     </Compile>
-    <Compile Include="frmChatUI.vb">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="frmChatUI.vb" />
     <Compile Include="frmMsgBox.Designer.vb">
       <DependentUpon>frmMsgBox.vb</DependentUpon>
     </Compile>
@@ -167,15 +165,11 @@
     <Compile Include="frmServerConn.Designer.vb">
       <DependentUpon>frmServerConn.vb</DependentUpon>
     </Compile>
-    <Compile Include="frmServerConn.vb">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="frmServerConn.vb" />
     <Compile Include="frmMain.Designer.vb">
       <DependentUpon>frmMain.vb</DependentUpon>
     </Compile>
-    <Compile Include="frmMain.vb">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="frmMain.vb" />
     <Compile Include="frmMonitoring.Designer.vb">
       <DependentUpon>frmMonitoring.vb</DependentUpon>
     </Compile>
@@ -185,9 +179,7 @@
     <Compile Include="frm_user_record.designer.vb">
       <DependentUpon>frm_user_record.vb</DependentUpon>
     </Compile>
-    <Compile Include="frm_user_record.vb">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="frm_user_record.vb" />
     <Compile Include="modKeyboardLock.vb" />
     <Compile Include="modMain.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
